@@ -9,7 +9,7 @@ The **Expense Tracker App** is a mobile application developed using **React Nati
     <img src="https://skillicons.dev/icons?i=windows"/><br>
     <img src="https://skillicons.dev/icons?i=github"/><br>
     <img src="https://skillicons.dev/icons?i=materialui"/><br>
-    <img src="https://skillicons.dev/icons?i=rest"/><br>
+    <img src="https://skillicons.dev/icons?i=jest"/><br>
     <img src="https://skillicons.dev/icons?i=git,graphql,docker,redux"/><br>
     <img src="https://skillicons.dev/icons?i=html,css,js"/><br>
     <img src="https://skillicons.dev/icons?i=react,nodejs"/><br>
@@ -20,13 +20,6 @@ The **Expense Tracker App** is a mobile application developed using **React Nati
 <div align="center">
   <img src="https://play-lh.googleusercontent.com/Xc2VEo_ReCQxoDXc-sKOVXkE5ttsT9Ot-aKbuAZOjjbhTIUGhNlJrnnTrSUReum0S1Yw=w600-h300-pc0xffffff-pd" alt="Expense Tracker Logo" width="200"/>
 </div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,firebase,js,css,html,nodejs,git,redux,github,materialui,docker,jest,graphql,rest" />
-  </a>
-</p>
-
 
 
 ## Features
