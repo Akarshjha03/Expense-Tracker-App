@@ -1,5 +1,7 @@
 # Expense Tracker App
 
+The **Expense Tracker App** is a mobile application developed using **React Native** and **Google Firebase**. It allows users to easily manage and track their daily expenses, categorize them, and analyze their spending patterns over time. The app provides a user-friendly interface, ensuring that budgeting and financial management are simplified and accessible.
+
 <div align="center">
   <img src="https://play-lh.googleusercontent.com/Xc2VEo_ReCQxoDXc-sKOVXkE5ttsT9Ot-aKbuAZOjjbhTIUGhNlJrnnTrSUReum0S1Yw=w600-h300-pc0xffffff-pd" alt="Expense Tracker Logo" width="200"/>
 </div>
@@ -10,11 +12,6 @@
   </a>
 </p>
 
-
-
-## Overview
-
-The **Expense Tracker App** is a mobile application developed using **React Native** and **Google Firebase**. It allows users to easily manage and track their daily expenses, categorize them, and analyze their spending patterns over time. The app provides a user-friendly interface, ensuring that budgeting and financial management are simplified and accessible.
 
 ## Features
 
