@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-![Expense Tracker Logo](link_to_your_logo_image)
+![https://play.google.com/store/apps/details?id=com.colpit.diamondcoming.isavemoneygo&hl=en_GB](link_to_your_logo_image)
 
 ## Overview
 
