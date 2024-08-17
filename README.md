@@ -23,6 +23,12 @@ The **Expense Tracker App** is a mobile application developed using **React Nati
 - **Real-Time Data:** Synchronize data across devices using Firebase Firestore.
 - **Notifications:** Set reminders for recurring expenses or budgeting goals.
 
+  <p>
+  <img src="https://via.placeholder.com/150" alt="Image description" style="float: left; margin-right: 10px;">
+  This is some text that will appear next to the image. You can add more content here as needed.
+</p>
+
+
 ## Tech Stack
 
 - **Frontend:** React Native
