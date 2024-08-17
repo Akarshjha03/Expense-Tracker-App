@@ -5,7 +5,7 @@ The **Expense Tracker App** is a mobile application developed using **React Nati
 ## App Logo
 
 <div align="center">
-  <img src="https://play-lh.googleusercontent.com/Xc2VEo_ReCQxoDXc-sKOVXkE5ttsT9Ot-aKbuAZOjjbhTIUGhNlJrnnTrSUReum0S1Yw=w600-h300-pc0xffffff-pd" alt="Expense Tracker Logo" width="300"/>
+  <img src="https://play-lh.googleusercontent.com/Xc2VEo_ReCQxoDXc-sKOVXkE5ttsT9Ot-aKbuAZOjjbhTIUGhNlJrnnTrSUReum0S1Yw=w600-h300-pc0xffffff-pd" alt="Expense Tracker Logo" width="350"/>
 </div>
 
 
@@ -13,11 +13,9 @@ The **Expense Tracker App** is a mobile application developed using **React Nati
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,windows,vscode"/><br>
-    <img src="https://skillicons.dev/icons?i=git,github,materialui"/><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js"/><br>
-    <img src="https://skillicons.dev/icons?i=graphql,docker,firebase"/><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,redux"/><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,windows,vscode,git,github"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,materialui,redux"/><br>
+    <img src="https://skillicons.dev/icons?i=firebase,react,nodejs,graphql,docker"/>
   </a>
 </p>
 
