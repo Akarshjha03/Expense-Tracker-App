@@ -5,7 +5,6 @@ The **Expense Tracker App** is a mobile application developed using **React Nati
 ## App Logo
 
 <div align="center">
-  <img src="https://play-lh.googleusercontent.com/Xc2VEo_ReCQxoDXc-sKOVXkE5ttsT9Ot-aKbuAZOjjbhTIUGhNlJrnnTrSUReum0S1Yw=w600-h300-pc0xffffff-pd" alt="Expense Tracker Logo" width="350"/>
 </div>
 
 ## Technologies Used
