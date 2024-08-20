@@ -17,6 +17,7 @@ The **Expense Tracker App** is a mobile application developed using **React Nati
   </a>
 </p>
 
+
 ## Features
 
 - **User Authentication:** Secure login and registration using Firebase Authentication.
